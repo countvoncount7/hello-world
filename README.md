@@ -2,7 +2,7 @@
 
 ## c'est my first repo on GH
 
-  ![Tux, the Linux mascot](images/tux.png)
+  ![Tux, the Linux mascot](tux.png)
 
 ### i like rice
 #### i like dogs
