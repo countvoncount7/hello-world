@@ -4,5 +4,5 @@
 ### i like rice
 #### i like dogs
 ##### cats are drama
-all you do is love them,  
+all you do is *love* them,  
 but __they__ really make the rules.
