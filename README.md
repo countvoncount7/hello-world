@@ -5,5 +5,5 @@
 #### i like dogs
 ***CATS ARE DRAMA***
 
-> - all you do is *love* them,  
-> - but __they__ really make the rules.
+> - all you do is *love* them, BUT  
+> -  __they__ really make the rules.
