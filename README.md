@@ -2,8 +2,6 @@
 
 ## c'est my first repo on GH
 
-  ![Tux, the Linux mascot](/tux.png)
-
 ### i like rice
 #### i like dogs
 ***CATS ARE DRAMA***
